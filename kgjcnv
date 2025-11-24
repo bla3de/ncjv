@@ -23,7 +23,7 @@ local RS = cloneref(game:GetService("RunService"))
 local ReplicatedStorage = cloneref(game:GetService("ReplicatedStorage"))
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/MSTTOPPER/Scripts/refs/heads/main/uilibbara", true))()
-local capy = Library:CreateUI("Murder Mystery 2 / CapyHub / t.me/CapyExploits", "Status: Premium user,Join t.me/CapyExploits!")
+local capy = Library:CreateUI("Murder Mystery 2 / ZenXhub / https://discord.gg/EzuswxqGM", "Status: Premium user,Join t.me/CapyExploits!")
 
 getgenv().tab1 = capy:AddTab(false, "Combat")
 getgenv().tab2 = capy:AddTab(false, "Hitbox expander")
